@@ -1,7 +1,7 @@
 package work5;
 
 import java.util.Scanner;
-
+import java.util.Arrays;
 public class work5 {
 
 	public static void main(String[] args) {
